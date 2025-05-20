@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It compares two chains of logic gates to confrim them the same
 
 ## How to test
 
-Explain how to use your project
+Select inputs 1-4 in random orders
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
